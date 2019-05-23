@@ -1,13 +1,12 @@
-# Project 0
-
-Web Programming with Python and JavaScript
-"# index.html" 
+ 
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My Webpage</title>
+        <title>
+            <h1> Vegetable Garden Plan
+                </title>
     </head>
     <body>
-        Hello, world!
+        <h2> Planning out 
     </body>
-</html>"# index.html" 
+</html>
