@@ -1,12 +1,9 @@
- 
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-            <h1> Vegetable Garden Plan
-                </title>
+        <title>My Webpage</title>
     </head>
     <body>
-        <h2> Planning out 
+        Hello, world!
     </body>
 </html>
